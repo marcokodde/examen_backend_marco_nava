@@ -1,0 +1,17 @@
+{
+    "name": "mann/mvc",
+    "autoload": {
+        "psr-4": {
+            "Mann\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marko",
+            "email": "70534584+marcokodde@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
